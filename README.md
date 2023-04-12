@@ -1,2 +1,2 @@
 # Pizza
-This is an Ontology for the Pizza
+This is an Ontology for the Pizza.
